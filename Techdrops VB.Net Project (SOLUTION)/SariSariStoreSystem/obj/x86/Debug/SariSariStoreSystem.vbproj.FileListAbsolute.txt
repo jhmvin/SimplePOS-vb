@@ -1,0 +1,162 @@
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.vbproj.GenerateResource.Cache
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+F:\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+F:\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+F:\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+F:\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.vbproj.GenerateResource.Cache
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.vbproj.GenerateResource.Cache
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\Vince\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+F:\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+F:\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+F:\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+F:\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+F:\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.vbproj.GenerateResource.Cache
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\Yuuhi\Documents\Visual Studio 2010\Projects\SariSariStoreSystem2\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.vbproj.GenerateResource.Cache
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\IAN\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.vbproj.GenerateResource.Cache
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\micaela nicole\Desktop\SariSariStoreSystem\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.vbproj.GenerateResource.Cache
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Edward\Desktop\2013 kila\SariSariStoreSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_inventory.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sales.resources
+C:\Users\Edward\Desktop\Techdrops\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_about.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe.config
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.exe
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.xml
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.pdb
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.exe
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.pdb
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\bin\Debug\SariSariStoreSystem.xml
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_about.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_inventory.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_register.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_forgot.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_log.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_main.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sales.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_sell.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.frm_splash.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\SariSariStoreSystem.Resources.resources
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Edward\Desktop\Techdrops VB.Net Project\SariSariStoreSystem\obj\x86\Debug\GenerateResource.write.1.tlog
